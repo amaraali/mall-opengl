@@ -25,18 +25,213 @@ C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(282,32): warning C4305: 'ar
 C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(283,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
 C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(284,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
 C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(285,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(291,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(292,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(293,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(294,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(300,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(301,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(302,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(303,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(304,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(305,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(306,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(307,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(308,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(309,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(298,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(298,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(298,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(299,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(299,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(299,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(300,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(300,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(300,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(301,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(301,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(301,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(305,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(306,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(306,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(306,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(307,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(307,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(307,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(308,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(308,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(308,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(309,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(309,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(309,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(324,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(324,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(324,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(325,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(325,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(325,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(326,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(326,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(326,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(327,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(327,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(327,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(331,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(332,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(332,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(332,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(333,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(333,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(333,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(334,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(334,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(334,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(335,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(335,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(335,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(350,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(350,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(350,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(351,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(351,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(351,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(352,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(352,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(352,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(353,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(353,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(353,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(357,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(358,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(358,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(358,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(359,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(359,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(359,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(360,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(360,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(360,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(361,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(361,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(361,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(376,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(376,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(376,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(377,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(377,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(377,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(378,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(378,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(378,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(379,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(379,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(379,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(383,59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(384,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(384,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(384,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(385,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(385,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(385,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(386,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(386,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(386,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(387,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(387,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(387,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(403,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(405,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(407,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(409,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(413,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(414,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(415,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(416,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(419,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(420,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(421,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(422,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(425,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(426,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(427,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(428,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(431,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(432,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(433,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(434,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(440,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(442,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(444,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(446,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(450,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(451,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(452,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(453,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(456,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(457,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(458,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(459,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(462,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(463,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(464,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(465,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(468,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(469,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(470,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(471,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(475,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(495,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(515,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(531,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(547,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(567,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(582,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(614,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(646,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(670,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(690,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(710,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(726,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(742,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(762,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(777,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(809,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(841,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1100,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1135,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1136,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1137,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1138,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1144,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1144,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1145,48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1145,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1146,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1146,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1147,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1147,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1151,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1152,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1153,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1154,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1157,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1158,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1159,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1160,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1166,53): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1166,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1166,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1167,53): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1167,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1167,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1168,53): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1168,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1168,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1169,53): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1169,67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1169,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1179,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1180,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1181,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1182,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1189,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1190,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1191,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1192,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1198,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1199,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1200,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1201,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1202,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1203,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1204,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1205,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1206,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Amara\source\repos\grafkom\grafkom\main.cpp(1207,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
   grafkom.vcxproj -> C:\Users\Amara\source\repos\grafkom\Debug\grafkom.exe
