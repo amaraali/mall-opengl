@@ -1,1 +1,3 @@
-# mall-opengl
+# Tugas Grafika Komputer
+
+Kelompok 10
